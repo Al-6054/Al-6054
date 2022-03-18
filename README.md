@@ -15,7 +15,7 @@
   - 🩺 fault detection and diagnosis, 
   - 🛠️ maintenance (support updates and scale-up), 
   - 🦾 and automation (reduce manual labor and make work more fun for others)
-- 📫 How to reach me: al.abdellatif@invitae.com (email) or @Al Abdellatif (Slack)
+- 📫 How to reach me: al.abdellatif@invitae.com (email) or @al.abdellatif (Slack)
 - 🎟 I'm not so good at writing; I will try to improve this over time
 
 <!---
